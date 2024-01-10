@@ -16,6 +16,8 @@ This Android application allows users to create, edit, and manage their tasks an
 
 ## Screenshots
 
+<img src='https://github.com/Rahul-char/To-Do-list-App/assets/82884697/9375ba5c-dfd6-492a-b96c-b471a6a21f0d.jpg' width='25'>
+
 ![WhatsApp Image 2024-01-10 at 15 26 35](https://github.com/Rahul-char/To-Do-list-App/assets/82884697/9375ba5c-dfd6-492a-b96c-b471a6a21f0d.jpg)
 ![WhatsApp Image 2024-01-10 at 15 26 35 (1)](https://github.com/Rahul-char/To-Do-list-App/assets/82884697/30c3835f-f6b6-45ea-994f-9b0a061b46d0)
 ![WhatsApp Image 2024-01-10 at 15 26 36 (1)](https://github.com/Rahul-char/To-Do-list-App/assets/82884697/f43f40c8-054d-4050-a7ad-c54658a84f37)
