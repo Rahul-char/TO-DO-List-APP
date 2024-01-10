@@ -41,5 +41,5 @@ https://github.com/Rahul-char/To-Do-list-App/assets/82884697/3362b060-8525-424e-
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/ToDoApp.git
+   git clone [https://github.com/Rahul-char/To-Do-list-App.git)https://github.com/Rahul-char/To-Do-list-App.git]
 
